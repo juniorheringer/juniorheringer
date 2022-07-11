@@ -25,7 +25,7 @@
 
 Project's
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juniorheringer&repo=resume-cv)](https://github.com/juniorheringer/README.md)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juniorheringer&repo=resume-cv.io)](https://github.com/juniorheringer/resume-cv.io)
 
 
 #Contact:
