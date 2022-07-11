@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# My name is Júnior Heringer!
+# I'm Júnior Heringer!
 
 <br> Since my 15 years in the IT field. </b> // <i> Desde meus 15 anos na área de TI. </i>
 <br> 9 years working with Hospital IT. // <i> 9 anos trabalhando com TI Hospitalar </i>
@@ -25,7 +25,7 @@
 
 Project's
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juniorheringer&repo=resume-cv)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juniorheringer&repo=resume-cv)](https://github.com/juniorheringer/README.md)
 
 
 #Contact:
